@@ -19,7 +19,8 @@ dependencies:
   signature: ^4.0.2
   flutter_colorpicker: 1.0.2
   firexcode:
-    path: ../ImageEditorPro-master/FireXcode-master/
+     git:
+      url: https://github.com/kaushikgodhani/vocsy-FireXcode-master.git
 
   flutter_web_plugins:
     sdk: flutter
