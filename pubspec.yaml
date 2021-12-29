@@ -20,7 +20,7 @@ dependencies:
   flutter_colorpicker: 1.0.2
   firexcode:
      git:
-      url: https://github.com/kaushikgodhani/vocsy-FireXcode-master.git
+      url: git://github.com/kaushikgodhani/vocsy-FireXcode-master.git
 
   flutter_web_plugins:
     sdk: flutter
